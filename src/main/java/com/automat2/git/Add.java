@@ -1,4 +1,4 @@
-package com.automat2.Git;
+package com.automat2.git;
 
 public class Add {
     public static void main(String[] args) {
